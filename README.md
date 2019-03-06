@@ -9,6 +9,12 @@ The dataset contains 6000 paraphrases for 40 canonical sentences. Each paraphras
 - Semantic Error
 - Translation
 
+# Possible Usecases
+- Automatic Paraphrasing Issue Detection
+- Paraphrase Generation
+- Semantic Textual Similarity
+- Sentence Embedding
+
 For more information please refer to the papar: 
 
 ```sh
