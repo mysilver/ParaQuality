@@ -11,9 +11,12 @@ The dataset contains 6000 paraphrases for 40 canonical sentences. Each paraphras
 
 ## Possible Usecases
 - Automatic Paraphrasing Issue Detection
+- Cheating Detection in Crowdsourced Paraphrases
 - Paraphrase Generation
 - Semantic Textual Similarity
 - Sentence Embedding
+- Gramatical Error Detection/Correction
+
 
 ## More information
 You can contact me via m.yaghubzade (at) gmail.com
