@@ -24,10 +24,9 @@ You can contact me via m.yaghubzade (at) gmail.com
 For more information please refer to our papar. Please also cite the following paper if you are using the dataset in your research:
 
 ```sh
-@inproceedings{api2can_2020,
-  title={Automatic Canonical Utterance Generation for Task-OrientedBots from API Specifications},
-  author={Yaghoubzadeh, Mohammadali and Benatallah, Boualem, and Zamanirad, Shayan},
-  booktitle={Advances in Database Technology-23rd International Conference on Extending Database Technology (EDBT)},
-  year={2020}
-}
+@inproceedings{mohammadali2019,
+  title={A Study of Incorrect Paraphrases in Crowdsourced User Utterances},
+  author={Yaghoub-Zadeh-Fard, Mohammad-Ali and Benatallah, Boualem and Chai Barush, Moshe and Zamanirad, Shayan},
+  booktitle={Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human     Language Technologies},
+  year={2019}
 ```
