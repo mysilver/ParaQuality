@@ -1,4 +1,4 @@
-# ParaQuality
+# ParaQuality Dataset
 A dataset for detecting paraphrasing errors
 The dataset contains 6000 paraphrases for 40 canonical sentences. Each paraphrase is annotated with one of the following labels:
 - Correct
